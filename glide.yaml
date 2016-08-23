@@ -1,0 +1,8 @@
+package: github.com/tomsid/mparser
+import:
+- package: github.com/pquerna/ffjson
+  subpackages:
+  - fflib/v1
+- package: golang.org/x/net
+  subpackages:
+  - idna

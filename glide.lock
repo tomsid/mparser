@@ -1,0 +1,13 @@
+hash: f147f0e196fb9a7695f42aa48939a53a166474e4514db8cbf08b11288e38a705
+updated: 2016-08-23T14:50:49.111860606+03:00
+imports:
+- name: github.com/pquerna/ffjson
+  version: 9d7075fb37d35c5b005b4cd3bdd1074e345a5d4e
+  subpackages:
+  - fflib/v1
+  - fflib/v1/internal
+- name: golang.org/x/net
+  version: 7394c112eae4dba7e96bfcfe738e6373d61772b4
+  subpackages:
+  - idna
+testImports: []
